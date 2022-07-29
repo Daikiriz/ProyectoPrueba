@@ -1,0 +1,4 @@
+repository "ElUltimoBrote@Daikiriz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
